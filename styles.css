@@ -1,0 +1,62 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f8ff;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header Styles */
+header {
+    background-color: #4682b4;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    border-bottom: 5px solid #5f9ea0;
+}
+
+/* Section Styles */
+section {
+    margin: 20px;
+    padding: 20px;
+    background-color: #ffffff;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Image Styling */
+img {
+    display: block;
+    margin: 0 auto;
+    border-radius: 50%;
+    border: 3px solid #4682b4;
+}
+
+/* Link Styles */
+a {
+    color: #4682b4;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    color: #5f9ea0;
+    text-decoration: underline;
+}
+
+/* Header Styling */
+h1, h2 {
+    color: #4682b4;
+}
+
+/* List Styling */
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin: 5px 0;
+}
